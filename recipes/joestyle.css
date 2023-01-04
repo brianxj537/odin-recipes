@@ -1,0 +1,24 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:aqua;
+    font-size: larger;
+}
+
+p{
+    color:brown
+}
+
+.ingredients {
+background-color: black;
+color:white;
+
+}
+
+h1{
+color:blueviolet;
+}
+
+#steps{
+    color:navy;
+    background-color:orangered;
+}
